@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm Vuko Vukašinović and I am a <img src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white"> Shopify developer!
+I'm Vuko Vukašinović and I am a web developer!
+
+
 
 <!--
 **vukovuko/vukovuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
